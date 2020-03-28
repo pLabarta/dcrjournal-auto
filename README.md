@@ -1,5 +1,5 @@
 # dcrjournal-auto
-Automated text generation and data analytics for the Decred Journal
+Automated text generation and data stuff for the Decred Journal
 
 ## Transactions
 
